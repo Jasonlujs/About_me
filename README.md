@@ -18,14 +18,15 @@
 <hr>
 
 ### 作品集
-- <a href="https://jasonlujs.github.io/RWD/" target="_blank">RWD Kitchen</a> 
 
+#### <a href="https://jasonlujs.github.io/RWD/" target="_blank">RWD Kitchen</a> 
  - 將 PSD 切成 HTML + CSS，並加上 RWD 呈現
 
    
-- <a href="https://jasonlujs.github.io/ajax-json-babysitting/" target="_blank">Baby Sitting Search</a>
- - 透過政府資料開放平台結合 Google Map Api 將資料呈現在 Google Map 上，並以 Geolocation 搜尋 user 的 GPS 定位，快速尋找附近的服務
- - Javascript
+#### <a href="https://jasonlujs.github.io/ajax-json-babysitting/" target="_blank">Baby Sitting Search</a>
+
+- 透過政府資料開放平台結合 Google Map Api 將資料呈現在 Google Map 上，並以 Geolocation 搜尋 user 的 GPS 定位，快速尋找附近的服務
+- Javascript
 
 
 <hr>
