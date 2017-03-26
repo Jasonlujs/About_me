@@ -9,7 +9,7 @@
 
 ### Front-End 專業技能
 - 熟悉 HTML + CSS + RWD 完成頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發手機、平板裝置適用之動態行動網站
-- 使用 SCSS 管理網頁版型
+- 使用 SASS & SCSS 管理網頁版型
 - 了解 JS 基本語法，並擅長使用 JQuery 等 Library 設計網頁動畫效果
 - 使用 Bootstrap & Pure.css 與 JQuery Plugins 快速開發響應式網頁
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
