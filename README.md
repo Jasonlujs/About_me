@@ -32,7 +32,7 @@
 
 #### <a href="https://jasonlujs.github.io/js-opendata-new/" target="_blank">Opendata-ajax</a>
 - 透過政府資料開放平台透過ajax串接
-
+- Sass,Javascript,JQuery
 <hr>
 
 ### 自我介紹
