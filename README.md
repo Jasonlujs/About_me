@@ -17,7 +17,7 @@
 
 ### 工作經歷
 
-## 甲尚科技 2017/05/22 ~ 至今
+#### 甲尚科技 2017/05/22 ~ 至今
 - 製作 Landing page , 開發快速產出靜態網頁工具提供設計師使用, 開發 AngularJS , Vue.js SPA網頁
 - 導入 Vue.js 開發SPA, 透過 webpack , esLint , Sass,提升團隊開發效率及規範
 - 導入 Gulp , Sass , esLint
