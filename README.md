@@ -25,15 +25,15 @@
 - 維護及開發 AngularJS 頁面
 
 - MarketPlace (still in development)
- - Vue.js
- - Vuex , VueRouter , axios
- - Sass
- - ElementUI
+  - Vue.js
+  - Vuex , VueRouter , axios
+  - Sass
+  - ElementUI
 
 - [Content Store](https://www.reallusion.com/contentstore/)
- - AngularJS
- - RESTful API
- - Bootstrap3
+  - AngularJS
+  - RESTful API
+  - Bootstrap3
  
 <hr>
 
