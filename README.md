@@ -24,7 +24,7 @@
 - 參與 UI/UX 提升使用者體驗
 - 維護及開發 AngularJS 頁面
 
-- MarketPlace (still in development)
+- [MarketPlace](https://marketplace.reallusion.com/)
   - Vue.js
   - Vuex , VueRouter , axios
   - Sass
