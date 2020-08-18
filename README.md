@@ -22,13 +22,13 @@
 - Use Vue.js, Can.js
 
 * Project
-- NVR website
-  - Import unit test, refactoring and re-config Webpack for old project.
-  - Reforged in 2020 , Use Vue.js , unit-test and Scrum.
-  - Increased automated unit test code coverage of core assemblies to 90%
-- Camera website
-  - Use Vue.js and unit-test and Scrum
-  - Increased automated unit test code coverage of core assemblies to 95%
+  - NVR website
+    - Import unit test, refactoring and re-config Webpack for old project.
+    - Reforged in 2020 , Use Vue.js , unit-test and Scrum.
+    - Increased automated unit test code coverage of core assemblies to 90%
+  - Camera website
+    - Use Vue.js and unit-test and Scrum
+    - Increased automated unit test code coverage of core assemblies to 95%
 
 #### Reallusion (2017/05 ~ 2018/11)
 - Develop Landing page, fast embedded static web tools for designers to use.
@@ -37,15 +37,15 @@
 - Develop and maintain AngularJS page.
 
 * Project
-- [MarketPlace](https://marketplace.reallusion.com/)
-  - Vue.js
-  - Vuex , VueRouter , axios
-  - Sass
-  - ElementUI
+  - [MarketPlace](https://marketplace.reallusion.com/)
+    - Vue.js
+    - Vuex , VueRouter , axios
+    - Sass
+    - ElementUI
 
-- [Content Store](https://www.reallusion.com/contentstore/)
-  - AngularJS
-  - RESTful API
-  - Bootstrap3
+  - [Content Store](https://www.reallusion.com/contentstore/)
+    - AngularJS
+    - RESTful API
+    - Bootstrap3
  
 <hr>
